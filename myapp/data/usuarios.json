@@ -1,3 +1,4 @@
+//esto deberían tenerlo en una bd, nosotros usamos mongo, específicamente mongoose para mapear los datos y mlab para alojar la base de datos, allí pueden ver sus collections y podrían tener una de usuarios y guardar esto allí
 [ {
 	"nombre": "Felipe",
 	"email": "f@gmail.com",
