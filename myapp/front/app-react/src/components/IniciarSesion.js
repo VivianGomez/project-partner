@@ -14,6 +14,7 @@ export default class LogIn extends React.Component {
             mensaje: "Iniciar Sesión",
             nombre: null,
             email:null,
+	    //Consejo, no usar caracteres especiales "ñ"		
             contraseña:null,
             open: false,
             error: ''
