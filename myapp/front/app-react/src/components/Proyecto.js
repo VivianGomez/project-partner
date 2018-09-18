@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+// el css lo pueden importaar en el index.html y usarlo para todos los componentes
 import "../App.css"
 
 class Proyecto extends Component { 
